@@ -15,3 +15,5 @@ fitlife-frontend/.angular/
 .vscode/
 .DS_Store
 Thumbs.db
+
+create_history.ps1
